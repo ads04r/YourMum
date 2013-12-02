@@ -1,9 +1,10 @@
 /* Mother's Maiden Name Generator
  *
- * Written by Ash, www.madhousebeyond.com
+ * Written by Ash, ads04r@ecs.soton.ac.uk
  *
- * This file is open source, distributed as freeware, and
- * may be used, re-used or modified for any purpose. It
+ * This file is open source, and
+ * may be used, re-used or modified for any purpose, 
+ * and I don't really mind if you credit me or not. It
  * relies on Paul Johnston's SHA1 function which is
  * distributed under the BSD License. See
  * http://pajhome.org.uk/crypt/md5 for details.
